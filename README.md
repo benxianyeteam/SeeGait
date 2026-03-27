@@ -6,7 +6,7 @@ This repository contains the code for **SeeGait**, a multimodal gait recognition
 
 (2026.03) Our paper has been accepted to IEEE Transactions on Information Forensics and Security (TIFS).
 
-## Pipeline
+## Framework
 ![SeeGait Pipeline](pipeline.png)
 
 ## Overview
