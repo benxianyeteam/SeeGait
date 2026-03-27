@@ -6,6 +6,9 @@ This repository contains the code for **SeeGait**, a multimodal gait recognition
 
 (2026.03) Our paper has been accepted to IEEE Transactions on Information Forensics and Security (TIFS).
 
+## Pipeline
+![SeeGait Pipeline](pipeline.png)
+
 ## Overview
 
 Gait recognition is a promising biometric technique for long-distance and non-contact person identification. However, its performance is often affected by challenging covariates such as **clothing changes**, **carrying conditions**, and **viewpoint variations**. Existing methods usually rely on a single modality or adopt shallow fusion strategies, which cannot fully exploit the complementarity between appearance cues and structural motion cues.
