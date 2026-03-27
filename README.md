@@ -68,6 +68,6 @@ Here are some great resources we benefit from:
 
 For questions or collaborations, please contact the author:
 
-**Hanyue Du** 
+**Hanyue Du** [Hanyue Du](https://duhanyue349.github.io/)
 
 Email: [duhanyue349@163.com](mailto:duhanyue349@163.com)
